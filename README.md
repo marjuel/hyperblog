@@ -1,2 +1,2 @@
 # hyperblog
-Repositorio de hyperblog para el curso de Git y Github de Platzi
+Repositorio de hyperblog para el curso de Git y Github de Platzi!!!!
